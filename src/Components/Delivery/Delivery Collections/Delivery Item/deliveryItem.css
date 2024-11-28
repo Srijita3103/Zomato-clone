@@ -1,0 +1,31 @@
+.delivery-item-container {
+  margin-bottom: 6px;
+  padding-bottom: 20px;
+}
+.delivery-item-cover {
+  height: 150px;
+  width: 150px;
+  background-color: var(--primary-bg);
+  box-shadow: var(--collection-shadow);
+  border-radius: 50%;
+}
+.delivery-item-image {
+  object-fit: cover;
+  height: 100%;
+  width: 100%;
+  border-radius: inherit;
+}
+.delivery-item-title {
+  color: rgb(54, 54, 54);
+  font-size: 20px;
+  font-weight: 500;
+  padding-right: 30px;
+  text-align: center;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  margin-top: 6px;
+}
+.slick-next:before,
+.slick-prev:before {
+  color: black;
+}
