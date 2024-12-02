@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/zomato-clone/static/css/main.1d0094ae.css",
-    "main.js": "/zomato-clone/static/js/main.256c7a57.js",
-    "index.html": "/zomato-clone/index.html",
-    "main.1d0094ae.css.map": "/zomato-clone/static/css/main.1d0094ae.css.map",
-    "main.256c7a57.js.map": "/zomato-clone/static/js/main.256c7a57.js.map"
+    "main.css": "/Srijita3103/zomato-clone/static/css/main.1d0094ae.css",
+    "main.js": "/Srijita3103/zomato-clone/static/js/main.256c7a57.js",
+    "index.html": "/Srijita3103/zomato-clone/index.html",
+    "main.1d0094ae.css.map": "/Srijita3103/zomato-clone/static/css/main.1d0094ae.css.map",
+    "main.256c7a57.js.map": "/Srijita3103/zomato-clone/static/js/main.256c7a57.js.map"
   },
   "entrypoints": [
     "static/css/main.1d0094ae.css",
