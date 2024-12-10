@@ -23,7 +23,7 @@ const Collection = ({ list }) => {
           </div>
           <div className="collection-location">
             <div>All collections in Bengaluru</div>
-            <i class="fi fi-rr-caret-right absolute-center"></i>
+            <i className="fi fi-rr-caret-right absolute-center"></i>
           </div>
         </div>
         <Slider {...settings}>
@@ -39,7 +39,7 @@ const Collection = ({ list }) => {
                   <div className="collection-card-title">{item.title}</div>
                   <div className="collection-card-subtitle">
                     <div>{item.places}</div>
-                    <i class="fi fi-rr-caret-right absolute-center"></i>
+                    <i className="fi fi-rr-caret-right absolute-center"></i>
                   </div>
                 </div>
               </div>
