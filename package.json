@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Srijita3103.github.io/zomato-clone",
+  "homepage": "https://github.com/Srijita3103/zomato-clone.git",
   "name": "clone-zomato",
   "version": "0.1.0",
   "private": true,
@@ -38,5 +38,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.2.0"
   }
 }
